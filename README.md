@@ -8,7 +8,7 @@ This project showcases basic front-end development structure with responsive lay
 ## View Live Project
 
 You can view the live project here:  
-[Open Portfolio Website](https://EngBicir1.github.io/HTML_/Portfolio/)
+[Open Portfolio Website](https://EngBicir1.github.io/HTML_CSS_And_JS_Portfolio/Portfolio/)
 
 
 
