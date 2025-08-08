@@ -1,4 +1,4 @@
-# HTML_ – Personal Web Project
+# HTML_ – Personal Portfolio Web Project
 
 A simple and clean personal Portfolio Website built using HTML, CSS, and JavaScript.  
 This project showcases basic front-end development structure with responsive layout and styling.
