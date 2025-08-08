@@ -5,7 +5,12 @@ This project showcases basic front-end development structure with responsive lay
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live website](https://engbicir1.github.io/HTM/Portfolio/)
+## View Live Project
+
+You can view the live project here:  
+[Open Portfolio Website](https://EngBicir1.github.io/HTML_/Portfolio/)
+
+
 
 ## 📁 Project Structure
 
